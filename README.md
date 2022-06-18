@@ -1,4 +1,6 @@
 # Fraudulent-Credit-Card-Transactions-Detection-Models-
+Note: Github does not allow me to add the csv file containing the data, because it is too big. If you want to see the dataset you can download it at the following link: https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud 
+
 In this project some machine learning models are trained for classifying some credit card transactions into two classes: fraud or not fraud. The dataset that is considered is pretty huge, since it contains 1 million examples, and it is also unbalanced, since the vast majority of the considered transactions are not a fraud. As we know when we have a binary classification problem and we are dealing with an unbalanced dataset the accuracy of the model is not a good metric.
 
 Thus, for these reasons the project is organized as follows: <br>
